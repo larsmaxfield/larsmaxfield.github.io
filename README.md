@@ -1,1 +1,1 @@
-## [swings](https://pants.dev/swings)
+## [swings](https://larsmaxfield.com/swings)
